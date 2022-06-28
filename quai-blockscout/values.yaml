@@ -1,0 +1,19 @@
+quaiBlockscout:
+  image:
+    name: quainetwork/blockscout
+    version: v0.0.1-pre.18
+  env: "quai-dev"
+  chains:
+    - prime
+    - cyprus
+    - paxos
+    - hydra
+    - cyprus1
+    - cyprus2
+    - cyprus3
+    - paxos1
+    - paxos2
+    - paxos3
+    - hydra1
+    - hydra2
+    - hydra3
